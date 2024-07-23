@@ -1,5 +1,5 @@
 # SPAMMER-TOOLS
-Tools Spam SMS 2023
+Tools Spam SMS 2024
 > Note: Api bisa mati kapan aja, jadi gunakan dengan bijak.
 
 # For Termux
@@ -7,7 +7,7 @@ Tools Spam SMS 2023
 pkg install git -y
 pkg install php -y
 pkg install curl -y
-git clone https://github.com/DomathID/spam-sms.git
+git clone https://github.com/marfelnotsepuh/spam-sms.git
 cd spam-sms
 php gas.php
 ```
